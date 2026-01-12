@@ -37,7 +37,7 @@ This project demonstrates the compression of multispectral satellite imagery usi
 ## File Structure
 
 ```
-SOM_GNR602_Project.ipynb     # Main Jupyter Notebook
+SOM_Project.ipynb            # Main Jupyter Notebook
 README.md                    # Project description and instructions
 SOM_GUI.png                  # GUI Structure
 Browser_Images               # Contains independent spectral bands as well as stacked multispectral image
@@ -126,7 +126,7 @@ pip install numpy matplotlib scikit-image rasterio pillow
 
 ## How to Run
 
-1. Open `SOM_GNR602_Project.ipynb` in **Jupyter Notebook**.
+1. Open `SOM_Project.ipynb` in **Jupyter Notebook**.
 2. Update file paths according to your environment.
 3. Run all cells sequentially.
 4. View the output images and plots inline.
